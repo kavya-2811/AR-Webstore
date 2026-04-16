@@ -24,7 +24,7 @@ Real-Time Communication
 WebRTC (simple-peer)
 
 1️⃣ Clone Repository
-git clone https://github.com/your-username/ar-webstore.git
+git clone https://github.com/kavya-2811/AR-Webstore.git
 cd ar-webstore
 2️⃣ Install Frontend Dependencies
 npm install
