@@ -22,34 +22,7 @@ Express.js
 Socket.io
 Real-Time Communication
 WebRTC (simple-peer)
-📁 Project Structure
-AR-Webstore/
-│
-├── public/
-│   ├── index.html
-│   ├── manifest.json
-│   ├── models/
-│       ├── chair.glb
-│       └── lamp.glb
-│
-├── server/
-│   ├── server.js
-│   ├── package.json
-│
-├── src/
-│   ├── components/
-│   │   ├── ProductList/
-│   │   ├── VideoCall.js
-│   │   ├── Header/
-│   │   ├── Footer/
-│   │   ├── Wishlist/
-│   │
-│   ├── App.js
-│   ├── index.js
-│
-├── package.json
-└── README.md
-⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/ar-webstore.git
 cd ar-webstore
