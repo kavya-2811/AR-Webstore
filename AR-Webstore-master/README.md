@@ -26,11 +26,14 @@ WebRTC (simple-peer)
 1️⃣ Clone Repository
 git clone https://github.com/kavya-2811/AR-Webstore.git
 cd ar-webstore
+
 2️⃣ Install Frontend Dependencies
 npm install
+
 3️⃣ Install Server Dependencies
 cd server
 npm install
+
 ▶️ Running the App
 🖥️ Start Backend Server
 cd server
